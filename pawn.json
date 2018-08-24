@@ -4,13 +4,17 @@
 	"entry": "test.pwn",
 	"output": "test.amx",
 	"dev_dependencies": [
-		"YSI-Core/y_testing"
+		"YSI-Core/y_testing",
+		"sampctl/samp-stdlib"
 	],
 	"runtime": {
 		"version": "0.3.7",
 		"mode": "server",
 		"echo": "-",
 		"rcon_password": "password",
-		"port": 7777
+		"port": 7777,
+		"hostname": "SA-MP Server",
+		"maxplayers": 50,
+		"language": ""
 	}
 }
