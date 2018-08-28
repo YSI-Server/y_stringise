@@ -1,20 +1,4 @@
 {
 	"user": "YSI-Server",
-	"repo": "y_stringise",
-	"entry": "test.pwn",
-	"output": "test.amx",
-	"dev_dependencies": [
-		"YSI-Core/y_testing",
-		"sampctl/samp-stdlib"
-	],
-	"runtime": {
-		"version": "0.3.7",
-		"mode": "y_testing",
-		"echo": "-",
-		"rcon_password": "password",
-		"port": 7777,
-		"hostname": "SA-MP Server",
-		"maxplayers": 50,
-		"language": ""
-	}
+	"repo": "y_stringise"
 }
